@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For SimpleStack
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SimpleStack	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+clear	KEYWORD2
+clearReadIndex	KEYWORD2
+clearWriteIndex	KEYWORD2
+setData	KEYWORD2
+writeIndex	KEYWORD2
+pushByte	KEYWORD2
+pushInteger	KEYWORD2
+pushLong	KEYWORD2
+pushFloat	KEYWORD2
+pushString	KEYWORD2
+pushFixedString	KEYWORD2
+pushArray	KEYWORD2
+getData	KEYWORD2
+readIndex	KEYWORD2
+popByte	KEYWORD2
+popInteger	KEYWORD2
+popLong	KEYWORD2
+popFloat	KEYWORD2
+popString	KEYWORD2
+popFixedString	KEYWORD2
+popFixedStringArray	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
