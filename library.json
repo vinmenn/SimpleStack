@@ -1,0 +1,12 @@
+{
+  "name": "SimpleStack",
+  "keywords": "stack, array",
+  "description": "Serialize/deserialize data into byte arrays. Useful for tx/rx routines or permanent storage (using EEprom library)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/vinmenn/SimpleStack.git"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}

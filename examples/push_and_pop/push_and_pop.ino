@@ -1,4 +1,5 @@
 #include <SimpleStack.h>
+#include <EEPROM.h>
 
 SimpleStack stack;
 
